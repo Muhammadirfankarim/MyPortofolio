@@ -1,2 +1,2 @@
 # MyPortofolio
-This repo contain my portofolio about data science project.
+This repository contain my portofolio project about data science and analyst.
